@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Prathu -</h1>
 <h3 align="center">SeaM05</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seam05&label=Profile%20views&color=0e75b6&style=flat" alt="seam05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seam05" alt="seam05" /></a> </p>
+- 🔭 I’m currently working as a Software engineering Intern at [IDBS](https://github.com/idbusinesssolutions)
 
-- 🔭 I’m currently working as a [Software engineering Intern at IDBS](https://github.com/idbusinesssolutions)
+- 🌱 I’m currently learning **React, Terraform, TensorFlow and Flask**
 
-- 🌱 I’m currently learning **ReactJs, Terraform, TensorFlow and Flask**
+- 👯 I’m also working on [Formula student AI](https://github.com/UoN-FS-AI/FS-AI) and my [Portfolio](https://github.com/SeaM05/SeaM05.github.io)
 
-- 👯 I’m also working on [Formula student AI and my portfolio](https://github.com/UoN-FS-AI/FS-AI https://github.com/SeaM05/SeaM05.github.io)
-
-- 👨‍💻 All of my projects are available at [https://github.com/SeaM05](https://github.com/SeaM05)
+- 👨‍💻 All of my projects are available at [SeaM05](https://github.com/SeaM05)
 
 - 📫 How to reach me **agrawalprathu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prathu-/](https://www.linkedin.com/in/prathu-/)
+- 📄 Know about my experiences [CV](https://www.linkedin.com/in/prathu-/)
 
 - ⚡ Fun fact **I recently took up Chinese calligraphy! (I don't know Mandarin)**
 
