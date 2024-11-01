@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Terraform, TensorFlow and Flask**
 
-- 👯 I’m also working on [Formula student AI](https://github.com/UoN-FS-AI/FS-AI) and my [Portfolio](https://seam05.github.io/)
+- 👯 I’m also working on [Formula student AI](https://github.com/UoN-FS-AI/FS-AI) and my [Portfolio](https://seam05.github.io/) (WORK IN PROGRESS!!)
 
 - 👨‍💻 All of my projects are available at [SeaM05](https://github.com/SeaM05)
 
