@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React, Terraform, TensorFlow and Flask**
 
-- 👯 I’m also working on [Formula student AI](https://github.com/UoN-FS-AI/FS-AI) and my [Portfolio](https://github.com/SeaM05/SeaM05.github.io)
+- 👯 I’m also working on [Formula student AI](https://github.com/UoN-FS-AI/FS-AI) and my [Portfolio](https://seam05.github.io/)
 
 - 👨‍💻 All of my projects are available at [SeaM05](https://github.com/SeaM05)
 
 - 📫 How to reach me **agrawalprathu@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.linkedin.com/in/prathu-/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/prathu-/)
 
 - ⚡ Fun fact **I recently took up Chinese calligraphy! (I don't know Mandarin)**
 
