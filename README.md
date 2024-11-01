@@ -1,8 +1,4 @@
-<h1 align="center">Hello There!!</h1>
-<h1 align="center">I'm Prathu</h1>
-
--------
-
+<h1 align="center">Hello There!! I'm Prathu</h1>
 <h3 align="center">SeaM05</h3>
 
 
