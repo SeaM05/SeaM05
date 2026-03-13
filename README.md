@@ -8,7 +8,6 @@
 ### 👨‍💻 About Me
 
 * 🎓 **BSc Computer Science with Artificial Intelligence** @University of Nottingham
-* 💼 **Software Engineering Intern @ IDBS**
 * 🌱 Currently learning **React, Terraform, TensorFlow, and Flask**
 * 🧠 I enjoy building software that’s practical, scalable, and genuinely useful
 * 🎨 Outside tech: **calligraphy, photography, sketching, and hiking**
